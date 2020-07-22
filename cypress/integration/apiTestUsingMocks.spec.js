@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('test with backend', () => {
+describe('simple test with backend', () => {
     beforeEach('Login to app', () => {
         cy.server()
         cy.loginToApplication()
