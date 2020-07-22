@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "title": "Test",
+            "slug": "test-vtul60",
+            "body": "Test2",
+            "createdAt": "2020-07-19T15:41:18.720Z",
+            "updatedAt": "2020-07-19T15:41:18.720Z",
+            "tagList": [],
+            "description": "Test1",
+            "author": {
+                "username": "vanshdeepkewlani",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 1
+        },
+        {
+            "title": "Hi",
+            "slug": "hi-wiboqp",
+            "body": "123s",
+            "createdAt": "2020-07-19T15:03:46.709Z",
+            "updatedAt": "2020-07-19T15:03:46.709Z",
+            "tagList": [],
+            "description": "World",
+            "author": {
+                "username": "ss213",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 5
+        }
+    ],
+    "articlesCount": 500
+}
